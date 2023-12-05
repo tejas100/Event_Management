@@ -49,6 +49,12 @@ def login_view(request):
 def home(request):
     return render (request, 'dashboard.html')
 
+def createvent(request):
+    return render (request, 'createvent.html')
+
+def eventlist(request):
+    return render (request, 'eventlist.html')
+
 
 def admin(request):
     return render(request,'dashboard.html')

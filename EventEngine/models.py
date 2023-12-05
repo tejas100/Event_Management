@@ -8,3 +8,4 @@ class User(AbstractUser):
     is_customer = models.BooleanField('Is customer', default=False)
     
   
+
