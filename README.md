@@ -10,7 +10,7 @@
 ### Built With
 
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![Django][djangoproject.com]][JQuery-url]
+* [![Django][djangoproject.com]]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
