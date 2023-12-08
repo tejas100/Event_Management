@@ -38,14 +38,14 @@ This will install all the prerequisites
 
 * Create a superuser
   ```sh
-  python3 manage.py createsuperuser
+  python manage.py createsuperuser
   ```
 
 Fill up admin name and password.
 
 * Run the server 
   ```sh
-  python3 manage.py runserver
+  python manage.py runserver
   ```
 
 * Got to registration page for new user
